@@ -13,7 +13,7 @@
 - The Python script pipeline will run after we receive complete data for a day's timesheets with no missing dates. Therefore, it's safe to only process data with the `max(date)` in the `.py` script. This filtered data is considered as "new" data.
 
 ## How to Use the Notebook & Python Script
-#### `branch_salary_per_hour.ipynb`
+#### - `branch_salary_per_hour.ipynb`
 You can simply view it on the Github website or open the file in your local environment.
 1. Create and activate a virtual environment:
 
