@@ -1,5 +1,5 @@
 ## General Info
-This repository is intended for the XX company's technical test for the Associate Data Engineer role.
+This repository is intended for the Mekari's technical test for the Associate Data Engineer role.
 - `branch_salary_per_hour.sql`: The answer to task (a). An SQL ETL script.
 - `create_tables.sql`: Contains DDL for tables used in `branch_salary_per_hour.sql`.
 - `branch_salary_per_hour.ipynb`: Performs data analysis and processing to gain insights.
